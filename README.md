@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Lamakira/order-summary-component)
-- Live Site URL: [Add live site URL here](https://lamakira.github.io/order-summary-component/)
+- Solution URL: [Live Site Here](https://github.com/Lamakira/order-summary-component)
+- Live Site URL: [Live site here](https://lamakira.github.io/order-summary-component/)
 
 ### Built with
 
